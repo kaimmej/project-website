@@ -22,7 +22,7 @@
 
     <!-- LOGIC to pull the correct category image onto blog posts that do not have an image  -->
     {% if page.featured_image %}
-        {% assign twitter_card_image = page.featured_image %}
+        {% assign twitter_card_image = page.featured_image | absolute_url %}
 
     {% else %}
         <!-- If there is a category, pull the correct category and fetch the generic image for that category  -->
