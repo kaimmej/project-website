@@ -309,8 +309,8 @@
                             "Icon": "OpenSearch-Members-condensedImage"
                         },
                         {
-                            "Name": "UserGroups",
-                            "SubText": "Join the OpenSearch Project Meetup Network",
+                            "Name": "User Groups",
+                            "SubText": "Join the OpenSearch Project meetup network",
                             "URL": "https://www.meetup.com/pro/opensearchproject/",
                             "ClassValue" : "drawer-content-subheader-link",
                             "Icon": "OpenSearch-UserGroups-condensedImage"
